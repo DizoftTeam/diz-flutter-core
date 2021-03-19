@@ -1,5 +1,6 @@
 name: diz_flutter_core
-description: A common used classes for internal projects
+description: >
+  A common used classes for internal projects. Also can used in other projects
 
 version: 1.0.0
 
