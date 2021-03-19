@@ -1,4 +1,12 @@
+## 1.0.0+1
+
+Fri, 19 Mar 2021
+
+* Dart file conventions
+* Add more badges
 ## 1.0.0
+
+Fri, 19 Mar 2021
 
 - Initial version, created by Dizoft Team
 
