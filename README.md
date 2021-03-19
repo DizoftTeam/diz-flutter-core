@@ -7,6 +7,11 @@
 ![](https://badgen.net/github/open-issues/DizoftTeam/diz-flutter-core)
 ![](https://badgen.net/github/license/DizoftTeam/diz-flutter-core)
 ![](https://badgen.net/github/tag/DizoftTeam/diz-flutter-core)
+![](https://badgen.net/pub/v/diz_flutter_core)
+![](https://badgen.net/pub/likes/diz_flutter_core)
+![](https://badgen.net/pub/points/diz_flutter_core)
+![](https://badgen.net/pub/popularity/diz_flutter_core)
+![](https://badgen.net/pub/sdk-version/diz_flutter_core)
 
 Contains some small classes for internal projects.
 
