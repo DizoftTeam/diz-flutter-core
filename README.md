@@ -1,4 +1,9 @@
-A simple command-line application.
+# Diz Flutter Core
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+Contains some small classes for internal projects.
+
+## What are we have
+
+* `core/components/global_bus` : Global Event Bus
+* `core/components/local_storage` : Local Storage in JSON file
+* `core/components/screen_utils` : Screen Utils for Flexible layout
